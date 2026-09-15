@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Girma Terfa
 email: gterfa@ucsd.edu
-description: "Write an awesome description for your new site here."
+description: "Personal portfolio of Girma Terfa, a computer scientist interested in software development, machine learning, and data-driven systems."
 github_username: gir-ma
 minimal_mistakes_skin: default
 search: true
@@ -28,10 +28,6 @@ paginate: 5
 paginate_path: /page:num/
 timezone: America/Los_Angeles
 
-# Add custom CSS
-head_scripts:
-  - /assets/css/custom.css
-
 include:
   - _pages
 
@@ -39,14 +35,17 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+# Disable feed generation
+feed:
+  path: false
 
 author:
   name: "Girma Terfa"
   avatar: "/assets/images/grm_pic.JPG"
-  bio: "Junior Computer Science Student at UC San Diego"
+  bio: "Computer scientist interested in software development, machine learning, and data-driven systems"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -54,9 +53,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gir-ma"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/girma_11"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:girma4w@gmail.com"
 
 footer:
   links:
@@ -66,9 +65,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gir-ma"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/girma_11"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:girma4w@gmail.com"
 
 # Collections
 collections:

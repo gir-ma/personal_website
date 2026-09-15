@@ -1,0 +1,19 @@
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/Library/Homebrew/vendor/portable-ruby/3.3.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251231-17831-mijd7t sitelibdir\=./.gem.20251231-17831-mijd7t clean
+
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251231-17831-mijd7t sitelibdir\=./.gem.20251231-17831-mijd7t
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251231-17831-mijd7t sitelibdir\=./.gem.20251231-17831-mijd7t install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251231-17831-mijd7t/racc
+
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251231-17831-mijd7t sitelibdir\=./.gem.20251231-17831-mijd7t clean

@@ -1,8 +1,6 @@
 ---
 title: "Shell Diver Calendar"
-excerpt: "Developed a comprehensive calendar application backend with features like event scheduling, todo lists, and journaling."
-header:
-  teaser: /assets/images/calendar-project-th.jpg
+excerpt: "Developed a full-featured calendar application with event scheduling, todo lists, and journaling, backed by robust cross-browser end-to-end testing."
 skills:
   - JavaScript
   - HTML
@@ -13,27 +11,32 @@ skills:
   - Waterfall
   - Miro
 ---
+<!-- 
+## Shell Diver Calendar -->
 
-## Shell Diver Calendar
-
-**Duration:** January 2024 – June 2024
+<!-- **Duration:** January 2024 – June 2024 -->
 
 ### Skills Used
-- JavaScript
-- HTML
-- CSS
-- Puppeteer
-- Git
-- Agile
-- Waterfall
-- Miro
 
-### Project Details
-- Architected and developed a comprehensive calendar application backend using JavaScript, incorporating features such as event scheduling, todo lists, and journal.
-- Implemented robust end-to-end testing using Puppeteer to ensure seamless user experience and application stability across different browsers and devices.
-- Collaborated effectively within an Agile development team using Git for version control, contributing to daily stand-ups, ADR, and participating in retrospectives.
+| JavaScript | HTML | CSS | Puppeteer |
+|:---:|:---:|:---:|:---:|
+| **Git** | **Agile** | **Waterfall** | **Miro** |
+
+### The Challenge
+Users needed a single, reliable tool to manage their time and personal notes - combining event scheduling, task tracking, and journaling - without the app breaking down across different browsers or devices. The team also needed a workflow that let multiple developers ship features confidently and consistently.
+
+### Approach
+- Architected and built the calendar application's backend in **JavaScript**, structuring it around three core features: event scheduling, todo lists, and journaling.
+- Implemented **end-to-end testing with Puppeteer** to catch regressions early and validate the user experience across browsers and devices before release.
+- Worked within an **Agile** team, using **Git** for version control, contributing to daily stand-ups, writing architecture decision records (ADRs), and participating in retrospectives to continuously improve the workflow.
+- Used **Miro** for collaborative planning and system design discussions, and drew on **Waterfall** principles for phases requiring more structured, sequential planning.
+
+### Results
+- Shipped a stable, multi-feature calendar app (scheduling, todos, journaling) with consistent behavior across browsers and devices.
+- Reduced the risk of regressions through automated end-to-end test coverage.
+- Maintained a smooth, collaborative development cycle through consistent Agile ceremonies and version-controlled workflows.
 
 ### Key Achievements
-- Successful implementation of multiple features (scheduling, todo lists, journaling)
-- Robust end-to-end testing ensuring cross-browser and cross-device compatibility
-- Effective collaboration in an Agile team environment
+-  Delivered three core features — scheduling, todo lists, and journaling — in a single cohesive app
+-  Built a robust Puppeteer-based end-to-end testing suite for cross-browser/device reliability
+-  Contributed consistently to an Agile team workflow (stand-ups, ADRs, retrospectives) using Git

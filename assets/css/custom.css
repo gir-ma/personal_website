@@ -59,8 +59,8 @@
 .contact-form input[type="submit"]:hover {
   background-color: #0056b3;
 }
-/* Girma's custom fix for pinned navbar */
-.masthead_inner-wrap {
+/* Keep the theme navigation visible while scrolling. */
+.masthead__inner-wrap {
   position: fixed;
   top: 0;
   left: 0;

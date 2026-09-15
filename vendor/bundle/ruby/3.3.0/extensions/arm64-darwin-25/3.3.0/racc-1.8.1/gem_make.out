@@ -1,0 +1,18 @@
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby@3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260914-29500-v28258 sitelibdir\=./.gem.20260914-29500-v28258 clean
+
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260914-29500-v28258 sitelibdir\=./.gem.20260914-29500-v28258
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260914-29500-v28258 sitelibdir\=./.gem.20260914-29500-v28258 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260914-29500-v28258/racc
+
+current directory: /Users/girma/Documents/Github/personal_website/gir-ma.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260914-29500-v28258 sitelibdir\=./.gem.20260914-29500-v28258 clean

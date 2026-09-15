@@ -1,9 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: collection
-collection: projects
-entries_layout: grid
+layout: single
 classes: wide
 ---
 

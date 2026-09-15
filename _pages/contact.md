@@ -11,7 +11,7 @@ layout: single
       <li><strong>Email:</strong> <a href="mailto:gterfa@ucsd.edu">gterfa@ucsd.edu</a></li>
       <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/girma-terfa-cs" target="_blank">LinkedIn Profile</a></li>
       <li><strong>GitHub:</strong> <a href="https://github.com/gir-ma" target="_blank">GitHub Page</a></li>
-      <li><strong>Instagram:</strong> <a href="https://instagram.com/girma_11" target="_blank">Instagram Profile</a></li>
+      <li><strong>Personal Email:</strong> <a href="mailto:girma4w@gmail.com">girma4w@gmail.com</a></li>
       <li><strong>Current Location:</strong> San Diego, CA</li>
     </ul>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381.552469031871!2d-117.2359142846117!3d32.88006008094002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dbff8e4a2b48a7%3A0xb0e6c87e57774b63!2sUniversity%20of%20California%20San%20Diego!5e0!3m2!1sen!2sus!4v1636207076747!5m2!1sen!2sus" width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
